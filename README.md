@@ -102,4 +102,4 @@ This repository provides you what you have to prepare to play **KKuTu**.
 - [Creative Commons License CC BY](https://creativecommons.org/licenses/by/4.0/) for all images and sounds in this repository.
 	- But if you use these for operating KKuTu service provided by this repository, you may omit the attribution(BY).
 
-[dev-blog]: http://blog.jjo.kr/220935346136
+[dev-blog]: http://blog.jjo.kr/220935346136"# kkutu" 
